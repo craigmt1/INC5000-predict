@@ -1,5 +1,5 @@
 # INC5000-predict
-Using R to predict the fate of 2018's fastest growing startups in 2019
+Using linear modeling in R to predict the fate of 2018's fastest growing startups in 2019
 
 **What is included**
 
